@@ -26,5 +26,5 @@ class Climas extends React.Component{
           </ul>
         )
       }
-    }
+    
 } 

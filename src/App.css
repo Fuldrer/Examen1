@@ -1,3 +1,21 @@
 .App {
   text-align: center;
 }
+
+input {
+  margin: 20px !important;
+}
+label {
+  margin: 0;
+  align-self: center;
+}
+
+form {
+  align-content: center;
+  text-align: center;
+  margin: 12% auto 0 auto;
+  background-color: black;
+}
+div{
+  align-content: center;
+}
