@@ -14,8 +14,9 @@ form {
   align-content: center;
   text-align: center;
   margin: 12% auto 0 auto;
-  background-color: black;
 }
 div{
+  background-color: black;
+  height: 250px;
   align-content: center;
 }
